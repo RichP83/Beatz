@@ -1,0 +1,2 @@
+# Beatz
+Rhythmic Sequence Generator
